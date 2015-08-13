@@ -1,0 +1,1 @@
+Invoke-RestMethod https://www.telize.com/geoip | select longitude,latitude,continent_code,timezone
